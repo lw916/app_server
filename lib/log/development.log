@@ -1,0 +1,357 @@
+2021-12-09 10:05:39.443374 WARNING [main] : Exception: SocketException: Failed host lookup: '127.0.0.1:6379' (OS Error: nodename nor servname provided, or not known, errno = 8)
+2021-12-09 10:05:54.054083 WARNING [main] : Exception: SocketException: Failed host lookup: '127.0.0.1:6379' (OS Error: nodename nor servname provided, or not known, errno = 8)
+2021-12-09 10:08:03.759124 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-09 10:51:06.475406 WARNING [main] : Exception: MongoDart Error: Invalid scheme in uri: 127.0.0.1 
+2021-12-09 10:51:35.107870 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-09 11:07:02.386286 WARNING [main] : Exception: MongoDart Error: Invalid scheme in uri: 127.0.0.2 
+123
+2021-12-09 17:19:38.360403 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-09 17:19:47.472592 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/server.dart]
+2021-12-09 17:19:47.476334 INFO [main] hotreloader: Hot-reloading code...
+2021-12-09 17:19:47.600569 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-09 17:19:47.612382 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-09 17:19:56.364157 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-10 09:10:36.685623 INFO [main] : 服务器启动失败，请检查端口或进程是否被占用
+报错信息为：SocketException: Failed to create server socket (OS Error: Address already in use, errno = 48), address = localhost, port = 8080
+2021-12-10 09:29:36.297511 WARNING [main] : 启动服务器失败
+,报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 49771
+2021-12-10 09:31:47.082123 WARNING [main] : 启动服务器失败
+,报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 49773
+2021-12-10 09:33:00.191678 WARNING [main] : 启动服务器失败
+,报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 49775
+2021-12-10 09:33:19.815197 WARNING [main] : 启动服务器失败
+,报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 49776
+2021-12-10 09:33:40.273996 WARNING [main] : 启动服务器失败
+,报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 49779
+2021-12-10 09:33:56.337602 WARNING [main] : 启动服务器失败
+,报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 49780
+2021-12-10 09:34:10.963488 WARNING [main] : 启动服务器失败
+,报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 49781
+2021-12-10 09:34:26.420105 WARNING [main] : 启动服务器失败
+,报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 49783
+2021-12-10 09:35:27.606364 WARNING [main] : 启动服务器失败
+,报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 49786
+2021-12-10 09:36:06.914012 WARNING [main] : 启动服务器失败
+,报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 49788
+2021-12-10 09:36:54.668247 WARNING [main] : 启动服务器失败
+,报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 49790
+2021-12-10 09:37:36.581090 WARNING [main] : 启动服务器失败
+,报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 49791
+2021-12-10 09:38:16.846334 WARNING [main] : 启动服务器失败
+,报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 49794
+2021-12-10 09:39:29.297980 WARNING [main] : 启动服务器失败
+,报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 50315
+2021-12-10 09:39:41.692779 WARNING [main] : 启动服务器失败
+,报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 50318
+2021-12-10 09:39:47.607105 WARNING [main] : 启动服务器失败
+,报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 50320
+2021-12-10 09:50:42.484678 INFO [main] : 服务器启动失败，请检查端口或进程是否被占用
+报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 50405
+2021-12-10 09:55:59.722316 INFO [main] : 启动耗时：197
+服务器启动失败，请检查端口是否被占用或数据库连接
+报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 50594
+2021-12-10 09:56:40.016649 INFO [main] : 启动耗时：1
+服务器启动失败，请检查端口是否被占用或数据库连接
+报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 50696
+2021-12-10 09:57:01.607654 INFO [main] : 启动耗时：0
+服务器已启动，地址为 http://localhost:8080
+2021-12-10 09:57:28.206278 INFO [main] : 启动耗时：197
+服务器已启动，地址为 http://localhost:8080
+2021-12-10 10:09:33.380535 INFO [main] : 启动耗时：202
+服务器已启动，地址为 http://localhost:8080
+2021-12-10 10:13:53.061336 INFO [main] : 启动耗时：196
+服务器已启动，地址为 http://localhost:8080
+2021-12-10 10:23:11.852948 INFO [main] : 启动耗时：194
+服务器已启动，地址为 http://localhost:8080
+2021-12-10 10:23:21.181558 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-10 02:50:08.206499 WARNING [main] : Exception: SocketException: OS Error: Connection refused, errno = 111, address = 127.0.0.1, port = 37482
+2021-12-10 02:50:19.465578 WARNING [main] : Exception: SocketException: OS Error: Connection refused, errno = 111, address = 127.0.0.1, port = 37484
+2021-12-10 02:50:56.635506 WARNING [main] : Exception: SocketException: OS Error: Connection refused, errno = 111, address = 127.0.0.1, port = 37506
+2021-12-10 02:51:24.717798 WARNING [main] : Exception: SocketException: OS Error: Connection refused, errno = 111, address = 127.0.0.1, port = 37528
+2021-12-13 08:53:21.291044 WARNING [main] : Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 49982
+2021-12-13 00:57:27.987020 WARNING [main] : Exception: SocketException: OS Error: Connection refused, errno = 111, address = 127.0.0.1, port = 40332
+2021-12-13 08:58:08.340094 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 08:59:10.906705 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/auth_controller.dart]
+2021-12-13 08:59:10.910533 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 08:59:11.034580 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 08:59:11.047758 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 08:59:26.644850 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 08:59:48.029528 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/auth_controller.dart]
+2021-12-13 08:59:48.033290 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 08:59:48.151038 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 08:59:48.162717 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 08:59:52.309904 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/router/router.dart]
+2021-12-13 08:59:52.310466 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 08:59:52.369451 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 08:59:52.377429 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:00:14.640895 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:00:55.218215 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/auth_controller.dart]
+2021-12-13 09:00:55.222300 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:00:55.344094 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:00:55.358079 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:01:12.949420 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/auth_controller.dart]
+2021-12-13 09:01:12.949978 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:01:13.013934 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:01:13.021941 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:01:15.396455 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/router/router.dart]
+2021-12-13 09:01:15.396990 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:01:15.463569 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:01:15.471219 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:06:06.607873 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/auth_controller.dart]
+2021-12-13 09:06:06.608491 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:06:06.676418 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:06:06.683222 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:31:38.293150 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:32:57.115857 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/auth_controller.dart]
+2021-12-13 09:32:57.119815 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:32:57.255675 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:32:57.267440 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:40:04.210102 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/auth_controller.dart]
+2021-12-13 09:40:04.210585 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:40:04.351848 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:40:04.363540 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:45:44.268556 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/constants/const.dart]
+2021-12-13 09:45:44.269128 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:45:44.291771 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:45:44.293982 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:46:15.074922 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/constants/const.dart]
+2021-12-13 09:46:15.075636 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:46:15.115376 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:46:15.119365 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:46:31.983830 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/constants/const.dart]
+2021-12-13 09:46:31.984339 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:46:32.009907 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:46:32.014530 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:46:53.367336 INFO [main] hotreloader: Change detected: type=[remove] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/constants/const.dart]
+2021-12-13 09:46:53.367820 INFO [main] hotreloader: Change detected: type=[add] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/constants/constants.dart]
+2021-12-13 09:46:53.368135 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:46:53.395411 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:46:53.397126 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:51:45.644085 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/constants/constants.dart]
+2021-12-13 09:51:45.644538 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:51:45.667309 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:51:45.669197 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:52:35.263346 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/auth_controller.dart]
+2021-12-13 09:52:35.263927 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:52:35.332713 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:52:35.340486 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:53:08.228584 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/auth_controller.dart]
+2021-12-13 09:53:08.229039 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:53:08.287874 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:53:08.295774 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:53:26.700951 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/auth_controller.dart]
+2021-12-13 09:53:26.701611 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:53:26.761608 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:53:26.768550 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:57:12.901800 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/constants/constants.dart]
+2021-12-13 09:57:12.902285 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:57:12.963109 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:57:12.969495 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:59:10.609520 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/utils/utils.dart]
+2021-12-13 09:59:10.610102 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/query_controller.dart]
+2021-12-13 09:59:10.610524 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/auth_controller.dart]
+2021-12-13 09:59:10.610873 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:59:10.686934 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:59:10.696678 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 09:59:37.715241 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/utils/utils.dart]
+2021-12-13 09:59:37.715736 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 09:59:37.782400 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 09:59:37.789289 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 10:00:23.045400 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/utils/utils.dart]
+2021-12-13 10:00:23.046151 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 10:00:23.114579 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 10:00:23.121203 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 10:03:52.733943 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/utils/utils.dart]
+2021-12-13 10:03:52.734478 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 10:03:52.778455 SEVERE [main] hotreloader: Hot-reloading code failed:
+ bin/utils/utils.dart:25:37: Error: Too many positional arguments: 0 allowed, but 1 found.
+Try removing the extra positional arguments.
+        Response.internalServerError(jsonEncode(returnData), headers: { HttpHeaders.contentTypeHeader: 'application/json' } );
+                                    ^
+../../.pub-cache/hosted/pub.dartlang.org/shelf-1.2.0/lib/src/response.dart:296:3: Context: Found this candidate, but the arguments don't match.
+  Response.internalServerError({
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+bin/utils/utils.dart:24:7: Error: Switch case may fall through to the next case.
+      case 'error':
+      ^
+2021-12-13 10:03:52.780912 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 10:04:31.237833 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/utils/utils.dart]
+2021-12-13 10:04:31.238257 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 10:04:31.298634 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 10:04:31.305353 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 10:16:24.468005 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/query_controller.dart]
+2021-12-13 10:16:24.468627 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 10:16:24.531212 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 10:16:24.538140 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 10:16:28.071255 INFO [main] hotreloader: Change detected: type=[remove] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/application_controller.dart]
+2021-12-13 10:16:28.071867 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 10:16:28.091570 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 10:16:28.093976 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 10:21:55.976314 INFO [main] hotreloader: Change detected: type=[remove] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/auth_controller.dart]
+2021-12-13 10:21:56.104458 INFO [main] hotreloader: Change detected: type=[add] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/filter/auth_controller.dart]
+2021-12-13 10:21:56.105133 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 10:21:56.144010 SEVERE [main] hotreloader: Hot-reloading code failed:
+ bin/server.dart:8:8: Error: Error when reading 'bin/controller/api/auth_controller.dart': No such file or directory
+import 'controller/api/auth_controller.dart';
+       ^
+bin/server.dart:29:22: Error: Method not found: 'auth'.
+      .addMiddleware(auth()) // 添加接口验证中间件
+                     ^^^^
+2021-12-13 10:21:56.145921 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 10:22:17.948621 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/server.dart]
+2021-12-13 10:22:17.949124 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/main.dart]
+2021-12-13 10:22:17.949476 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/filter/auth_controller.dart]
+2021-12-13 10:22:17.949890 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 10:22:18.019672 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 10:22:18.026261 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 14:47:17.721713 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 14:47:42.896740 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/filter/auth_controller.dart]
+2021-12-13 14:47:42.900186 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 14:47:43.026689 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 14:47:43.040137 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 14:48:05.226041 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/filter/auth_controller.dart]
+2021-12-13 14:48:05.226631 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 14:48:05.298411 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 14:48:05.307984 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 14:55:28.648381 INFO [main] hotreloader: Change detected: type=[add] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/application_controller.dart]
+2021-12-13 14:55:28.648901 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 14:55:28.671548 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 14:55:28.673516 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 14:55:55.750652 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/application_controller.dart]
+2021-12-13 14:55:55.769179 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 14:55:55.790672 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 14:55:55.792557 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 14:57:27.005263 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/query_controller.dart]
+2021-12-13 14:57:27.014836 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/application_controller.dart]
+2021-12-13 14:57:27.015338 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 14:57:27.059267 SEVERE [main] hotreloader: Hot-reloading code failed:
+ bin/controller/api/query_controller.dart:12:1: Error: Expected a String, but got 'class'.
+class Query {
+^^^^^
+bin/controller/api/query_controller.dart:12:1: Error: Expected ';' after this.
+class Query {
+^^^^^
+bin/controller/api/query_controller.dart: Error: A file can't be a part of itself.
+2021-12-13 14:57:27.061538 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 14:57:46.033525 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/query_controller.dart]
+2021-12-13 14:57:46.033991 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 14:57:46.099095 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 14:57:46.105622 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 14:58:06.675731 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/query_controller.dart]
+2021-12-13 14:58:06.676330 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 14:58:06.785045 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-13 14:58:06.793323 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 14:59:46.835820 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/query_controller.dart]
+2021-12-13 14:59:46.854599 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 14:59:46.891979 SEVERE [main] hotreloader: Hot-reloading code failed:
+ bin/controller/api/query_controller.dart:9:6: Error: Expected a String, but got 'o'.
+part o 'application_controller.dart';
+     ^
+bin/controller/api/query_controller.dart:9:6: Error: Expected ';' after this.
+part o 'application_controller.dart';
+     ^
+bin/controller/api/query_controller.dart:9:6: Error: Variables must be declared using the keywords 'const', 'final', 'var' or a type name.
+Try adding the name of the type of the variable or the keyword 'var'.
+part o 'application_controller.dart';
+     ^
+bin/controller/api/query_controller.dart:9:8: Error: Expected a declaration, but got ''application_controller.dart''.
+part o 'application_controller.dart';
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+bin/controller/api/query_controller.dart:9:37: Error: Unexpected token ';'.
+part o 'application_controller.dart';
+                                    ^
+bin/controller/api/query_controller.dart: Error: A file can't be a part of itself.
+2021-12-13 14:59:46.894675 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 15:01:45.515488 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/query_controller.dart]
+2021-12-13 15:01:45.516058 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/application_controller.dart]
+2021-12-13 15:01:45.516474 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 15:01:45.595692 SEVERE [main] hotreloader: Hot-reloading code failed:
+ bin/router/router.dart:4:1: Error: Can't import 'bin/controller/api/query_controller.dart', because it has a 'part of' declaration.
+Try removing the 'part of' declaration, or using 'bin/controller/api/query_controller.dart' as a part.
+import '../controller/api/query_controller.dart';
+^
+bin/router/router.dart:15:47: Error: The method 'Query' isn't defined for the class 'Service'.
+ - 'Service' is from 'bin/router/router.dart'.
+Try correcting the name to the name of an existing method, or defining a method named 'Query'.
+    router.post('/login',(Request request) => Query().search(request));
+                                              ^^^^^
+bin/controller/api/query_controller.dart:21:11: Error: 'Backend' isn't a type.
+    final Backend backend = Backend.fromJson(data);
+          ^^^^^^^
+bin/controller/api/query_controller.dart:21:29: Error: The getter 'Backend' isn't defined for the class 'Query'.
+ - 'Query' is from 'bin/controller/api/application_controller.dart'.
+Try correcting the name to the name of an existing getter, or defining a getter or field named 'Backend'.
+    final Backend backend = Backend.fromJson(data);
+                            ^^^^^^^
+2021-12-13 15:01:45.601349 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 15:03:27.003290 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/query_controller.dart]
+2021-12-13 15:03:27.014919 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 15:03:27.045572 SEVERE [main] hotreloader: Hot-reloading code failed:
+ bin/router/router.dart:4:1: Error: Can't import 'bin/controller/api/query_controller.dart', because it has a 'part of' declaration.
+Try removing the 'part of' declaration, or using 'bin/controller/api/query_controller.dart' as a part.
+import '../controller/api/query_controller.dart';
+^
+bin/router/router.dart:15:47: Error: The method 'Query' isn't defined for the class 'Service'.
+ - 'Service' is from 'bin/router/router.dart'.
+Try correcting the name to the name of an existing method, or defining a method named 'Query'.
+    router.post('/login',(Request request) => Query().search(request));
+                                              ^^^^^
+2021-12-13 15:03:27.047966 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 15:06:42.541464 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/query_controller.dart]
+2021-12-13 15:06:42.542133 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/controller/api/application_controller.dart]
+2021-12-13 15:06:42.542574 INFO [main] hotreloader: Hot-reloading code...
+2021-12-13 15:06:42.561124 SEVERE [main] hotreloader: Hot-reloading code failed:
+ bin/router/router.dart:4:1: Error: Can't import 'bin/controller/api/query_controller.dart', because it has a 'part of' declaration.
+Try removing the 'part of' declaration, or using 'bin/controller/api/query_controller.dart' as a part.
+import '../controller/api/query_controller.dart';
+^
+bin/router/router.dart:15:47: Error: The method 'Query' isn't defined for the class 'Service'.
+ - 'Service' is from 'bin/router/router.dart'.
+Try correcting the name to the name of an existing method, or defining a method named 'Query'.
+    router.post('/login',(Request request) => Query().search(request));
+                                              ^^^^^
+2021-12-13 15:06:42.563219 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-13 15:08:55.082823 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-14 11:18:11.303891 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-14 11:18:47.067915 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/task/update.dart]
+2021-12-14 11:18:47.071482 INFO [main] hotreloader: Hot-reloading code...
+2021-12-14 11:18:52.501771 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-14 11:19:11.282891 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/task/update.dart]
+2021-12-14 11:19:11.286302 INFO [main] hotreloader: Hot-reloading code...
+2021-12-14 11:19:12.789312 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-14 11:19:12.799955 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-14 11:19:15.390515 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/task/update.dart]
+2021-12-14 11:19:15.390970 INFO [main] hotreloader: Hot-reloading code...
+2021-12-14 11:19:21.039520 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-14 11:20:10.275876 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-14 11:20:34.217445 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/server.dart]
+2021-12-14 11:20:34.220759 INFO [main] hotreloader: Hot-reloading code...
+2021-12-14 11:20:40.125095 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-14 11:20:49.883188 WARNING [main] : OK
+2021-12-14 11:20:59.848294 WARNING [main] : OK
+2021-12-14 11:23:55.626195 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-14 11:24:29.477110 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-14 11:24:35.914865 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/server.dart]
+2021-12-14 11:24:35.918651 INFO [main] hotreloader: Hot-reloading code...
+2021-12-14 11:24:36.055250 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-14 11:24:36.066013 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-14 11:24:47.302856 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-14 11:25:43.519512 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-14 11:26:13.409220 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-14 11:26:38.152007 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-14 11:26:57.771528 INFO [main] hotreloader: Change detected: type=[modify] path=[/Users/liwa2/StudioProjects/app-performance-server/bin/task/update.dart]
+2021-12-14 11:26:57.775712 INFO [main] hotreloader: Hot-reloading code...
+2021-12-14 11:26:57.959654 INFO [main] hotreloader: Hot-reloading code succeeded.
+2021-12-14 11:26:57.994050 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-15 09:11:02.419430 INFO [main] : 启动耗时：87
+服务器启动失败，请检查端口是否被占用或数据库连接
+报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 51669
+2021-12-15 09:11:34.659822 INFO [main] : 启动耗时：84
+服务器启动失败，请检查端口是否被占用或数据库连接
+报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 51690
+2021-12-15 09:11:46.941817 INFO [main] : 服务器启动失败，请检查端口是否被占用或数据库连接
+报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 51692
+2021-12-15 09:12:02.587081 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-15 09:15:11.725495 INFO [main] : 服务器已启动，地址为 http://localhost:8080
+2021-12-15 09:15:35.535315 INFO [main] : 服务器启动失败，请检查端口是否被占用或数据库连接
+报错信息为：Exception: SocketException: OS Error: Connection refused, errno = 61, address = 127.0.0.1, port = 51791

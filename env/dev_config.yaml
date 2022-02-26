@@ -1,0 +1,74 @@
+environment_config:
+  path: 'config/config.dart'
+  class: DevConfig
+
+  fields:
+    # redis连接路径
+    redisUrl:
+      const: true
+      static: true
+      type: String
+      default: '127.0.0.1'
+
+    # redis连接端口
+    redisPort:
+      const: true
+      static: true
+      type: int
+      default: 6379
+
+    # redis缓存更新周期
+    redisUpdateDuration:
+      const: true
+      static: true
+      type: int
+      default: 1
+
+    # redis缓存清空周期
+    redisFlushDuration:
+      const: true
+      static: true
+      type: int
+      default: 7
+
+    # 芒果数据库连接路径
+    mongoDbUrl:
+      const: true
+      static: true
+      type: String
+      default: '127.0.0.1'
+
+    # 芒果数据库连接端口
+    mongoDbPort:
+      const: true
+      static: true
+      type: int
+      default: 27017
+
+    # 日志路径
+    logUrl:
+      const: true
+      static: true
+      type: String
+      default: 'bin/log'
+
+    # 服务器启动地址
+    serverUrl:
+      const: true
+      static: true
+      type: String
+      default: '0.0.0.0'
+
+    # 服务器启动端口
+    serverPort:
+      const: true
+      static: true
+      type: int
+      default: 8080
+
+    # 是否启用热重载
+    hotReloaded:
+      const: true
+      static: true
+      type: bool
+      default: true

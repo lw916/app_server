@@ -1,0 +1,34 @@
+name: app_performance_server
+description: Server application for app-performance accompany with Docker support.
+version: 1.0.0
+
+environment:
+  sdk: '>=2.14.4 <3.0.0'
+
+
+dependencies:
+  args: ^2.0.0
+  # shelf框架包 | https://pub.flutter-io.cn/packages/shelf
+  shelf: ^1.2.0
+  # shelf 路由包 | https://pub.flutter-io.cn/packages/shelf_router
+  shelf_router: ^1.0.0
+  # shelf静态资源包 | https://pub.flutter-io.cn/packages/shelf_static
+  shelf_static: ^1.1.0
+  # 跨域中间件 | https://pub.flutter-io.cn/packages/shelf_cors_headers
+  shelf_cors_headers: ^0.1.2
+  # 热重载 | https://pub.flutter-io.cn/packages/shelf_hotreload
+  shelf_hotreload: ^1.0.0
+  # redis驱动包 | https://pub.flutter-io.cn/packages/redis
+  redis: ^2.2.0
+  # 芒果db驱动包 | https://pub.flutter-io.cn/packages/mongo_dart
+  mongo_dart: ^0.7.4
+  # jwt加解密
+  dart_jsonwebtoken: ^2.4.0
+  # config生成工具 | https://pub.flutter-io.cn/packages/environment_config
+  environment_config: ^3.0.0
+
+dev_dependencies:
+  http: ^0.13.0
+  lints: ^1.0.0
+  test_process: ^2.0.0
+  test: ^1.15.0
